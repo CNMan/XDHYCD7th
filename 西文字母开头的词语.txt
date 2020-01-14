@@ -17,7 +17,7 @@
 【AM】调幅。[英amplitude modulation的缩写]
 【APC】复方阿司匹林。由阿司匹林、非那西丁和咖啡因制成的一种解热镇痛药。[英aspirin，phenacetin and caffeine的缩略形式]
 【APEC】亚太经济合作组织。[英Asia Pacific Economic Cooperation的缩写]
-【APl】空气污染指数。[英air pollution index的缩写]
+【API】空气污染指数。[英air pollution index的缩写]
 【AQ】逆境商数。[英adversity quotient的缩写]
 【ATM机】ATMjī自动柜员机。[ATM，英automated teller machine的缩写]
 【AV】音频和视频。[英audio visual的缩写]
@@ -34,7 +34,8 @@
 【BP机】BPjī寻呼机。[BP，英beeper的缩写]
 【BRT】快速公交系统，是利用现代化大容量专用公交车辆，在专用道路上快速运行的新型公共交通方式。[英bus rapid transit的缩写]
 【C2C】指电子商务中消费者对消费者的交易方式。[英consumer-to-consumer的缩写，也作C to C]
-【C4SR】军事指挥信息系统；军队指挥自动化系统。[英command（指挥），control（控制），communication（通信），computer（计算机），intelligence（情报），surveillance（监视），reconnaissance（侦察）的缩略形式]
+【C³I系统】
+【C⁴ISR】军事指挥信息系统；军队指挥自动化系统。[英command（指挥），control（控制），communication（通信），computer（计算机），intelligence（情报），surveillance（监视），reconnaissance（侦察）的缩略形式]
 【CAD】计算机辅助设计。[英computer-aided design的缩写]
 【CAI】计算机辅助教学。[英computer-aided instruction的缩写]
 【CATV】有线电视。[英cable television的缩写]
@@ -57,10 +58,11 @@
 【CIA】美国中央情报局。[英Central Intelligence Agency的缩写了
 【CIMS】计算机集成制造系统。[英computer integrated manufacturing system的缩写]
 【CIP】在版编目；预编目录。在图书出版前，由图书编目部门根据出版商提供的校样先行编目，编目后将著录内容及标准格式交出版机构，将它印于图书的版权页上。[英cataloguing in publication的缩写]
+【CMMB】
 【CMOS】互补性氧化金属半导体。一种可记录光线变化的半导体，多用于数字相机、数字摄像机等电子产品。[英complementary metal oxide semiconductor的缩写]
 【CNN】美国有线电视新闻网。[英Cable News Network的缩写]
 【CPA】注册会计师。[英certified publicac countant的缩写]
-【CPl】消费者价格指数，我国称之为居民消费价格指数。[英consumer price index的缩写]
+【CPI】消费者价格指数，我国称之为居民消费价格指数。[英consumer price index的缩写]
 【CPU】中央处理器。[英central processing unit的缩写]
 【CRT】阴极射线管。[英cathode ray tube的缩写]
 【CT】❶计算机层析成像：做～。❷计算机层析成像仪。[英computerized tomography的缩写]
@@ -87,12 +89,14 @@
 【F1】一级方程式锦标赛。[英formula 1的缩写]
 【FAX】❶传真件。❷用传真机传送。❸传真系统。[英facsimile的缩略变体]
 【FBI】美国联邦调查局。[英Federal Bureau of Investigation的缩写]
+【FLASH】
 【FM】调频。[英frequency modulation的缩写]
 【FTA】❶自由贸易协定。[英free trade agreement的缩写]❷自由贸易区。[英free trade area的缩]
 【GB】国家标准。中国国家标准的代号。[汉语拼音guobiao的缩写]
 【GDP】国内生产总值。[英gross domestic product的缩写]
 【GIS】地理信息系统。[类geographic information system的缩写]
 【GMAT】（美国等国家）管理专业研究生入学资格考试。[英Graduate Management Admission Test的缩写]
+【GMDSS】
 【GMP】药品生产质量管埋规范，是世界各国对药品生产全过程监督管理普遍采用的法定技术规范。[英good manufacturing practices的缩写]
 【GNP】国民生产总值。[英gross national product的缩写]
 【GPS】全球定位系统。[英global positioning system的缩写]
@@ -107,8 +111,10 @@
 【HSK】汉语水平考试。[汉语拼音hànyǔ shuǐpíng kǎoshì的缩写]
 【IC卡】ICkǎ集成电路卡。[IC，英integrated circuit的缩写]
 【ICP】因特网内容提供者。[英Internet content provider的缩写]
+【ICQ】
 【ICU】重症监护治疗病房；重症监护室。[英intensive care unit的缩写]
 【IDC】互联网数据中心。[英internet data center的缩写]
+【IDD】
 【IMAX】一种巨幕电影放映系统。[英image maximum的缩写]
 【IMF】国际货币基金组织，[英International Monetary Fund的缩写]
 【IOC】国际奥林匹克委员会。[英International Olympic Committee的缩写]
@@ -119,8 +125,10 @@
 【IPTV】网络电视，是基于IP协议的电视广播服务，人们可以通过宽带网络交互式地收看电视节目。[英Internet protocol television的缩写]
 【IQ】智商。[英intelligence quotient的缩写]
 【ISBN】国际标准书号。[英international standard book number的缩写了
+【ISDN】
 【ISO】国际标准化组织。[从希腊语isos（相同的）得名，一说从英语International Organization for Standardization]
 【ISP】因特网服务提供者。[英Internet service provider的缩写]
+【ISRC】
 【ISSN】国际标准期刊号。[英international standard serial number的缩写]
 【IT】信息技术。[英information technology的缩写]
 【ITS】智能交通系统。[英intelligent transportation system的缩写]
@@ -137,6 +145,8 @@
 【M1】狭义货币供应量。M1=M0+非金融性公司的活期存款。
 【M2】广义货币供应量。M2=M1+非金融性公司的定期存款+储蓄存款+其他存款。
 【MBA】工商管理硕士。[英Master of Business Administration的缩写]
+【MD】
+【MMS】
 【MP3】一种常用的数字音颜压缩格式，也指采用这种格式的音频文件及播放这种格式音频文件的袖珍型电子产品。[英MPEG 1 audio layer 3的缩写]
 【MP4】一种能播放影音文件的袖珍型电子产品。
 【MPA】公共管理硕士。[英Master of Public Administration的缩写]
@@ -159,6 +169,7 @@
 【OPEC】石油输出国组织；欧佩克。[英Organization of the Petroleum Exporting Countries的缩写]
 【OTC】非处方药。指不需要凭执业医师处方即可自行判断、购买和使用的药物。[英over the counter的缩写]
 【PC】个人计算机。[英personal computer的缩写]
+【PC机】
 【PDA】个人数字助理。[英personal digital assistant的缩写]
 【PDP】等离子（体）显示板。[英plasma display panel的缩写]
 【PE】❶市盈率。[英price earningsratio的缩写]❷聚乙烯：～塑料|～管|～保鲜膜。[英poly ethylene的缩写]
@@ -192,11 +203,13 @@
 【SCI】科学引文索引。[英science citation index的缩写]
 【SDR】特别提款权。[英special drawing rights的缩写]
 【SIM卡】SIMkǎ用户身份识别卡。移动通信数字手机中的一种IC卡，该卡存储有用户的电话号码和详细的服务资料。[SIM，英subscriber identification module的缩写]
+【SMS】
 【SNG】卫星新闻采集，特指装载全套SNG设备的卫星新闻采访车。[英satellite news gathering的缩写]
 【SNS】❶社交网络服务，一种旨在帮助人们建立社交网络的互联网应用服务。[英social networking service的缩写]❷社交网站；社交网。英social networking site的缩写]
 【SOHO】小型家居办公室。[英small office home office的缩写]
 【SOS】莫尔斯电码“……”所代表的字母，是国际上曾通用的紧急呼教信号，也用于一般的求救或求助。[英save our souls的缩写]
 【SOS儿童村】SOSértóngcūn一种专门收养孤儿的慈善机构。
+【SPA】
 【SSD】固态硬盘。[英solid state disk的缩写了
 【ST】特别处理（股市用语）。[英special treatment的缩写]
 【STD】性传播疾病。[英sexually transmitted disease的缩写]
