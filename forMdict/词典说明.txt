@@ -1,0 +1,5 @@
+《现代汉语词典》（第7版）字词头校订项目地址：<br />
+<a href="https://github.com/CNMan/XDHYCD7th">https://github.com/CNMan/XDHYCD7th</a><br />
+<br />
+<font color="red">如果你使用过程中发现字词头错误或缺漏，请及时反馈，谢谢。</font><br />
+<br />
